@@ -1,0 +1,112 @@
+html{
+    height: 100%;
+}
+body{
+    background: url('../images/debit.jpg');
+    background-position: center;
+    background-size: cover;
+    font-family: 'Lobster', cursive;
+}
+.price h1{
+    color: #fff;
+    font-size: 3rem;
+    text-transform: capitalize;
+    text-align: center;
+}
+.col1{
+    background: #fff;
+    width: 40%;
+    padding: 12px !important;
+}
+th.col1{
+    background: #fff;
+    text-transform: uppercase;
+    padding: 20px 10px !important;
+    font-size: 1.5em;
+    color: #000;
+}
+.col2{
+    background: #009677;
+    text-align: center;
+    color: #fff;
+}
+th.col2{
+    background: #00c854;
+    padding: 30px 10px !important;
+    font-size: 1.5em;
+    text-transform: uppercase;
+}
+
+.col3{
+    background: #03a9f4;
+    text-align: center;
+    color: #fff;
+}
+th.col3{
+    background: #039be5;
+    padding: 30px 10px !important;
+    font-size: 1.5em;
+    text-transform: uppercase;
+}
+.col4{
+    background: #ef5350;
+    text-align: center;
+    color: #fff;
+}
+th.col4{
+    background: #e53935;
+    padding: 30px 10px !important;
+    font-size: 1.5em;
+    text-transform: uppercase;
+}
+.rght{
+    background: #e34;
+    padding: 6px;
+    border: 2px solid;
+    color: aliceblue;
+}
+.cross{
+    background: skyblue;
+    padding: 6px;
+    border: 2px solid;
+    color: aliceblue;
+    
+}
+.btn{
+    border: 2px solid #fff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
