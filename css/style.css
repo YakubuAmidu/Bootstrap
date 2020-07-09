@@ -65,3 +65,13 @@ th.col4{
     border: 2px solid;
     color: aliceblue;
 }
+.cross{
+    background: skyblue;
+    padding: 6px;
+    border: 2px solid;
+    color: aliceblue;
+
+}
+.btn{
+    border: 2px solid #fff;
+}
