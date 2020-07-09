@@ -1,27 +1,19 @@
-
-.col1{
-    background: #fff;
-    width: 40%;
-    padding: 12px !important;
+html{
+    height: 100%;
 }
-th.col1{
-    background: #fff;
-    text-transform: uppercase;
-    padding: 20px 10px !important;
-    font-size: 1.5em;
-    color: #000;
+body{
+    background: url('../images/debit.jpg');
+    background-position: center;
+    background-size: cover;
+    font-family: 'Lobster', cursive;
 }
-.col2{
-    background: #009677;
-    text-align: center;
+.price h1{
     color: #fff;
+    font-size: 3rem;
+    text-transform: capitalize;
+    text-align: center;
 }
-th.col2{
-    background: #00c854;
-    padding: 30px 10px !important;
-    font-size: 1.5em;
-    text-transform: uppercase;
-}
+
 
 .col3{
     background: #03a9f4;
