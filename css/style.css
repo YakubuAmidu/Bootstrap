@@ -37,14 +37,31 @@ th.col2{
     text-transform: uppercase;
 }
 
-
-.cross{
-    background: skyblue;
+.col3{
+    background: #03a9f4;
+    text-align: center;
+    color: #fff;
+}
+th.col3{
+    background: #039be5;
+    padding: 30px 10px !important;
+    font-size: 1.5em;
+    text-transform: uppercase;
+}
+.col4{
+    background: #ef5350;
+    text-align: center;
+    color: #fff;
+}
+th.col4{
+    background: #e53935;
+    padding: 30px 10px !important;
+    font-size: 1.5em;
+    text-transform: uppercase;
+}
+.rght{
+    background: #e34;
     padding: 6px;
     border: 2px solid;
     color: aliceblue;
-
-}
-.btn{
-    border: 2px solid #fff;
 }
